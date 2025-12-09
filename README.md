@@ -1,5 +1,6 @@
 ## Hi👋, I'm Sultan!
 
+🌏 Something about me
 ```kotlin
 data class jersuu(
     val pronouns: String = "he/him",
